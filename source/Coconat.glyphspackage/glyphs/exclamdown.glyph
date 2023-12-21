@@ -1,0 +1,39 @@
+{
+color = 3;
+glyphname = exclamdown;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (321,507);
+ref = exclam;
+}
+);
+width = 320;
+},
+{
+associatedMasterId = m01;
+layerId = "B4FBACBA-C7AD-479E-A114-34F8B1E81FB4";
+width = 600;
+},
+{
+associatedMasterId = m01;
+layerId = "106DA6D1-F163-4962-ABD1-5D396BDF94D3";
+width = 600;
+},
+{
+layerId = "CF8A9C28-2F26-4C68-964B-3F562C170337";
+shapes = (
+{
+angle = 180;
+pos = (336,509);
+ref = exclam;
+}
+);
+width = 336;
+}
+);
+unicode = 161;
+}

@@ -1,0 +1,78 @@
+{
+color = 3;
+glyphname = yen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Y;
+},
+{
+closed = 1;
+nodes = (
+(76,330,l),
+(76,284,l),
+(536,284,l),
+(536,330,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(76,205,l),
+(76,159,l),
+(536,159,l),
+(536,205,l)
+);
+}
+);
+width = 624;
+},
+{
+associatedMasterId = m01;
+layerId = "B4FBACBA-C7AD-479E-A114-34F8B1E81FB4";
+width = 600;
+},
+{
+associatedMasterId = m01;
+layerId = "106DA6D1-F163-4962-ABD1-5D396BDF94D3";
+width = 600;
+},
+{
+layerId = "CF8A9C28-2F26-4C68-964B-3F562C170337";
+shapes = (
+{
+ref = Y;
+},
+{
+closed = 1;
+nodes = (
+(241,290,l),
+(241,244,l),
+(831,244,l),
+(831,290,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(241,165,l),
+(241,119,l),
+(831,119,l),
+(831,165,l)
+);
+}
+);
+width = 1060;
+},
+{
+associatedMasterId = m01;
+layerId = "AB41D4FA-9E86-4A3E-A9F5-64A2BBA2AFB6";
+width = 741.5625;
+}
+);
+metricLeft = Y;
+metricRight = Y;
+unicode = 165;
+}

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered" format="2">
+  <advance width="239"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <component base="period" xScale="0.6312" yScale="0.9726" xOffset="13" yOffset="243"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

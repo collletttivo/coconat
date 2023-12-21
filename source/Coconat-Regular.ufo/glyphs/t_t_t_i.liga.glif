@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_t_t_i.liga" format="2">
+  <advance width="1340"/>
+  <outline>
+    <component base="idotless" xOffset="1124"/>
+    <component base="dotaccentcomb" xOffset="919"/>
+    <contour>
+      <point x="779" y="115" type="curve"/>
+      <point x="776" y="116" type="line"/>
+      <point x="756" y="94"/>
+      <point x="714" y="48"/>
+      <point x="650" y="48" type="curve" smooth="yes"/>
+      <point x="571" y="48"/>
+      <point x="542" y="94"/>
+      <point x="542" y="205" type="curve" smooth="yes"/>
+      <point x="542" y="457" type="line"/>
+      <point x="825" y="455" type="line"/>
+      <point x="825" y="152" type="line" smooth="yes"/>
+      <point x="825" y="48"/>
+      <point x="877" y="-15"/>
+      <point x="966" y="-15" type="curve" smooth="yes"/>
+      <point x="1083" y="-15"/>
+      <point x="1125" y="71"/>
+      <point x="1143" y="112" type="curve"/>
+      <point x="1140" y="113" type="line"/>
+      <point x="1120" y="91"/>
+      <point x="1078" y="45"/>
+      <point x="1014" y="45" type="curve" smooth="yes"/>
+      <point x="935" y="45"/>
+      <point x="906" y="91"/>
+      <point x="906" y="202" type="curve" smooth="yes"/>
+      <point x="906" y="454" type="line"/>
+      <point x="1258" y="450" type="line"/>
+      <point x="1274" y="520" type="line"/>
+      <point x="906" y="512" type="line"/>
+      <point x="906" y="629" type="line"/>
+      <point x="901" y="629" type="line"/>
+      <point x="869" y="555"/>
+      <point x="840" y="516"/>
+      <point x="759" y="509" type="curve"/>
+      <point x="542" y="504" type="line"/>
+      <point x="542" y="632" type="line"/>
+      <point x="537" y="632" type="line"/>
+      <point x="506" y="561"/>
+      <point x="478" y="511"/>
+      <point x="404" y="501" type="curve"/>
+      <point x="177" y="496" type="line"/>
+      <point x="177" y="632" type="line"/>
+      <point x="172" y="632" type="line"/>
+      <point x="139" y="556"/>
+      <point x="89" y="497"/>
+      <point x="10" y="492" type="curve"/>
+      <point x="10" y="463" type="line"/>
+      <point x="96" y="462" type="line"/>
+      <point x="96" y="155" type="line" smooth="yes"/>
+      <point x="96" y="51"/>
+      <point x="148" y="-12"/>
+      <point x="237" y="-12" type="curve" smooth="yes"/>
+      <point x="354" y="-12"/>
+      <point x="396" y="74"/>
+      <point x="414" y="115" type="curve"/>
+      <point x="411" y="116" type="line"/>
+      <point x="391" y="94"/>
+      <point x="349" y="48"/>
+      <point x="285" y="48" type="curve" smooth="yes"/>
+      <point x="206" y="48"/>
+      <point x="177" y="94"/>
+      <point x="177" y="205" type="curve" smooth="yes"/>
+      <point x="177" y="461" type="line"/>
+      <point x="461" y="458" type="line"/>
+      <point x="461" y="155" type="line" smooth="yes"/>
+      <point x="461" y="51"/>
+      <point x="513" y="-12"/>
+      <point x="602" y="-12" type="curve" smooth="yes"/>
+      <point x="719" y="-12"/>
+      <point x="761" y="74"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

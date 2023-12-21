@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
+  <advance width="600"/>
+  <unicode hex="030B"/>
+  <anchor x="217" y="508" name="_top"/>
+  <outline>
+    <contour>
+      <point x="114" y="587" type="curve"/>
+      <point x="124" y="584" type="line"/>
+      <point x="187" y="638"/>
+      <point x="236" y="680"/>
+      <point x="264" y="716" type="curve"/>
+      <point x="178" y="741" type="line"/>
+      <point x="157" y="690"/>
+      <point x="140" y="639"/>
+    </contour>
+    <contour>
+      <point x="240" y="590" type="curve"/>
+      <point x="250" y="587" type="line"/>
+      <point x="315" y="637"/>
+      <point x="366" y="677"/>
+      <point x="396" y="711" type="curve"/>
+      <point x="312" y="741" type="line"/>
+      <point x="288" y="691"/>
+      <point x="268" y="641"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

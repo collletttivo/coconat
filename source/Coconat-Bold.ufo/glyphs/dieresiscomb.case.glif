@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <advance width="600"/>
+  <anchor x="298" y="700" name="_top"/>
+  <outline>
+    <component base="dotaccentcomb" xScale="0.9687" yScale="0.9687" xOffset="-42" yOffset="223"/>
+    <component base="dotaccentcomb" xScale="0.9687" yScale="0.9687" xOffset="220" yOffset="223"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

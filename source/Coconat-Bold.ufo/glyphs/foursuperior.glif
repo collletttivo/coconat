@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="2">
+  <advance width="439"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="228" y="700" type="line"/>
+      <point x="0" y="492" type="line"/>
+      <point x="233" y="492" type="line"/>
+      <point x="233" y="489" type="line" smooth="yes"/>
+      <point x="233" y="435"/>
+      <point x="221" y="424"/>
+      <point x="221" y="424" type="curve"/>
+      <point x="384" y="424" type="line"/>
+      <point x="384" y="424"/>
+      <point x="373" y="437"/>
+      <point x="373" y="490" type="curve" smooth="yes"/>
+      <point x="373" y="492" type="line"/>
+      <point x="392" y="492"/>
+      <point x="410" y="492"/>
+      <point x="429" y="488" type="curve"/>
+      <point x="429" y="537" type="line"/>
+      <point x="410" y="533"/>
+      <point x="392" y="533"/>
+      <point x="373" y="533" type="curve"/>
+      <point x="373" y="647" type="line"/>
+      <point x="373" y="664"/>
+      <point x="373" y="694"/>
+      <point x="380" y="712" type="curve"/>
+    </contour>
+    <contour>
+      <point x="85" y="533" type="line"/>
+      <point x="229" y="660" type="line"/>
+      <point x="233" y="649"/>
+      <point x="233" y="638"/>
+      <point x="233" y="626" type="curve"/>
+      <point x="233" y="533" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>four</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>
